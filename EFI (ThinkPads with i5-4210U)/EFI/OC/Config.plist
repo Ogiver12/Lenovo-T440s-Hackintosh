@@ -1795,7 +1795,7 @@
 			<key>GlobalConnect</key>
 			<false/>
 			<key>HideVerbose</key>
-			<true/>
+			<false/>
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
@@ -1927,7 +1927,7 @@
 				<key>Comment</key>
 				<string>Toggle SIP</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
@@ -2030,7 +2030,7 @@
 			<key>ActivateHpetSupport</key>
 			<false/>
 			<key>DisableSecurityPolicy</key>
-			<false/>
+			<true/>
 			<key>EnableVectorAcceleration</key>
 			<false/>
 			<key>EnableVmx</key>
