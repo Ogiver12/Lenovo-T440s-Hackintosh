@@ -10,6 +10,20 @@
 
 #
 
+### OpenCore Version 0.8.7 (12.14.22)
+
+- OpenCore to ```0.8.7```
+- Kext Changes
+  - New / Updated
+    - No new kexts were necessary.
+- Config Changes
+    - Changed SMBIOS from ```MacBookPro12,1``` to ```MacBookPro14,1```.
+    - Improved Power Management.
+- Other Changes
+  - Just updated to ```OpenCore 0.8.7```.
+
+
+
 ### OpenCore Version 0.8.6 (11.14.22)
 
 - OpenCore to ```0.8.6```
