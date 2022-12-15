@@ -169,6 +169,7 @@ To start you'll need the following:
 
 You must have the following items:
 - Lenovo ThinkPad T440s (Obviously 😁).
+   > Please note that it is recommended your ThinkPad T440s has an Intel Core i5-4210U in order for macOS to boot. 
 - Access to a working Windows machine with Python installed.
 - A pendrive with more than 4 GB (Keep in mind, during the preperation we will format the disk to create the install media).
 - an Internet connection via Ethernet.
