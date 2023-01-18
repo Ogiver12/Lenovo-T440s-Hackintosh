@@ -6,15 +6,15 @@
 
 
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.7-red)](https://www.apple.com/macos/big-sur/)
-[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.1-green)](https://www.apple.com/macos/monterey/)
-[![macOS](https://img.shields.io/badge/macOS-Ventura_13.0.1-orange)](https://www.apple.com/macos/Ventura/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.2-green)](https://www.apple.com/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura_13.1-orange)](https://www.apple.com/macos/Ventura/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.7-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>OpenCore Version: </strong>0.8.6
+   <strong>OpenCore Version: </strong>0.8.7
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/releases"><strong>Download now »</strong></a>
    <br />
@@ -33,6 +33,8 @@
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
+
+**12/14/2022** : Updated to ```OpenCore 0.8.7``` .
 
 **11/14/2022** : Updated to ```OpenCore 0.8.6``` . 
 
@@ -167,6 +169,7 @@ To start you'll need the following:
 
 You must have the following items:
 - Lenovo ThinkPad T440s (Obviously 😁).
+   > Please note that it is recommended your ThinkPad T440s has an Intel Core i5-4210U in order for macOS to boot. 
 - Access to a working Windows machine with Python installed.
 - A pendrive with more than 4 GB (Keep in mind, during the preperation we will format the disk to create the install media).
 - an Internet connection via Ethernet.
