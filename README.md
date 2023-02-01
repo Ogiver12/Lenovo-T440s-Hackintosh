@@ -14,7 +14,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>OpenCore Version: </strong>0.8.7
+   <strong>OpenCore Version: </strong>0.8.8
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/releases"><strong>Download now »</strong></a>
    <br />
@@ -33,7 +33,9 @@
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
-
+                                                                                                        
+**02/01/2023** : Updated to ```OpenCore 0.8.8``` .
+                                                           
 **12/14/2022** : Updated to ```OpenCore 0.8.7``` .
 
 **11/14/2022** : Updated to ```OpenCore 0.8.6``` . 
