@@ -6,9 +6,9 @@
 
 
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.7-red)](https://www.apple.com/macos/big-sur/)
-[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.2-green)](https://www.apple.com/macos/monterey/)
-[![macOS](https://img.shields.io/badge/macOS-Ventura_13.1-orange)](https://www.apple.com/macos/Ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.3-green)](https://www.apple.com/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura_13.2-orange)](https://www.apple.com/macos/Ventura/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
@@ -209,8 +209,10 @@ python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
 # Monterey (12)
 python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
-# Ventura (13) (Coming Soon)
+# Ventura (13) (Work in progress)
+python3 macrecovery.py -b Mac-4B682C642B45593E -m 00000000000000000 download
 ```
+macOS 12 and above note: As recent macOS versions introduce changes to the USB stack, it is highly advisable that you map your USB ports (with USBToolBox) before installing macOS. 
 
 This will take some time, however once you're finished you should get either BaseSystem or RecoveryImage files:
 
