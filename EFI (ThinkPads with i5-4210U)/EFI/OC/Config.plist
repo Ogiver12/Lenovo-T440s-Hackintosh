@@ -2057,6 +2057,8 @@
         <integer>0</integer>
         <key>UnblockFsConnect</key>
         <false/>
+        <key>ResizeUsePciRbIo</key>
+        <false/>
       </dict>
       <key>ReservedMemory</key>
       <array>
