@@ -29,7 +29,9 @@
 </p>
 </br>
 
-#
+#                                                        
+Development is on hiatus for now due to my T440s no longer functioning. However, I plan on purchasing another one soon to keep the development of this repo active. So please stay tuned for more info.
+                                                           
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
