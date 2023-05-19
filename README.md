@@ -12,7 +12,7 @@
 
 
 <p align="center">
-   <strong>Status: Maintained</strong>
+   <strong>Status: On Hiatus </strong>
    <br />
    <strong>OpenCore Version: </strong>0.9.0
    <br />
