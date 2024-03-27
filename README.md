@@ -8,13 +8,13 @@
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.7.4-red)](https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.3-green)](https://www.apple.com/macos/monterey/)
 [![macOS](https://img.shields.io/badge/macOS-Ventura_13.2.1-orange)](https://www.apple.com/macos/Ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.0-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
-   <strong>Status: On Hiatus </strong>
+   <strong>Status: Development Only </strong>
    <br />
-   <strong>OpenCore Version: </strong>0.9.0
+   <strong>OpenCore Version: </strong>0.9.8
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/releases"><strong>Download now »</strong></a>
    <br />
@@ -30,7 +30,7 @@
 </br>
 
 #                                                        
-Development is on hiatus for now due to my T440s no longer functioning. However, I plan on purchasing another one soon to keep the development of this repo active. So please stay tuned for more info.
+Development is a bit comlex right now considering I don't have a working T440s. However, I am still maintaining this EFI so I will have the community test it and give feedback.
                                                            
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
