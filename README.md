@@ -1,7 +1,8 @@
 # Lenovo ThinkPad T440s OpenCore Configuration
 
+![repository-open-graph-t440s](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/assets/72415505/41e0901b-fe2e-473e-9735-1302eaf30615)
 
-![repository-open-graph-template new](https://user-images.githubusercontent.com/72415505/192321519-9ccf8bf8-a79a-401c-991a-5af1d3d19d50.png)
+
 
 
 
@@ -30,7 +31,7 @@
 </br>
 
 #                                                        
-Development is a bit comlex right now considering I don't have a working T440s. However, I am still maintaining this EFI so I will have the community test it and give feedback.
+Development is a bit complex right now considering I don't have a working T440s. However, I am still maintaining this EFI so I will have the community test it and give feedback.
                                                            
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
