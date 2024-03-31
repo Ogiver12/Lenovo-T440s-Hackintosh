@@ -36,6 +36,8 @@ Development is a bit complex right now considering I don't have a working T440s.
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
+
+**03.27.2024** : Updated to ```OpenCore 0.9.8``` .
      
 **03/27/2023** : Updated to ```OpenCore 0.9.0``` .
 
