@@ -10,7 +10,7 @@
 
 #
 
-### OpenCore Version 0.9.8 Ventura (03.27.2024
+### OpenCore Version 0.9.8 Ventura (03.27.2024)
 
 - OpenCore to ```0.9.8```
 - Kext Changes
