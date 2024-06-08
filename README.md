@@ -1,20 +1,21 @@
 # Lenovo ThinkPad T440s OpenCore Configuration
 
-
-![repository-open-graph-template new](https://user-images.githubusercontent.com/72415505/192321519-9ccf8bf8-a79a-401c-991a-5af1d3d19d50.png)
-
+![repository-open-graph-t440s](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/assets/72415505/41e0901b-fe2e-473e-9735-1302eaf30615)
 
 
-[![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.7.4-red)](https://www.apple.com/macos/big-sur/)
-[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.3-green)](https://www.apple.com/macos/monterey/)
-[![macOS](https://img.shields.io/badge/macOS-Ventura_13.2.1-orange)](https://www.apple.com/macos/Ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.0-blue)](https://github.com/acidanthera/OpenCorePkg)
+
+
+
+[![macOS](https://img.shields.io/badge/macOS-Big_Sur-red)](https://www.apple.com/macos/big-sur/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey_-green)](https://www.apple.com/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura_-orange)](https://www.apple.com/macos/Ventura/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
-   <strong>Status: On Hiatus </strong>
+   <strong>Status: Development Only </strong>
    <br />
-   <strong>OpenCore Version: </strong>0.9.0
+   <strong>OpenCore Version: </strong>0.9.8
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/releases"><strong>Download now »</strong></a>
    <br />
@@ -30,11 +31,13 @@
 </br>
 
 #                                                        
-Development is on hiatus for now due to my T440s no longer functioning. However, I plan on purchasing another one soon to keep the development of this repo active. So please stay tuned for more info.
+Development is a bit complex right now considering I don't have a working T440s. However, I am still maintaining this EFI so I will have the community test it and give feedback.
                                                            
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
+
+**03.27.2024** : Updated to ```OpenCore 0.9.8``` .
      
 **03/27/2023** : Updated to ```OpenCore 0.9.0``` .
 

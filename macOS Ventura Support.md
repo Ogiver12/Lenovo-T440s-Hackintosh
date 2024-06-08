@@ -10,6 +10,22 @@
 
 #
 
+### OpenCore Version 0.9.8 Ventura (03.27.2024)
+
+- OpenCore to ```0.9.8```
+- Kext Changes
+  - New / Updated
+   - Added VoodooRMI (issue #27)
+    - AppleALC to ```1.8.9```
+    - FeatureUnlock to ```1.0.6```
+    - Lilu to ```1.6.0```
+    - VoodooPS2Controller to ```2.2.7```
+    - WhateverGreen to ```1.6.1``` 
+- Config Changes
+    - Changed SMBIOS from ```MacBookPro12,1``` to ```MacBookPro14,1```
+- Other Changes
+  - Added the newer 2020+ macOS Boot Chime
+
 ### OpenCore Version 0.8.8 Ventura (02.01.23)
 
 - OpenCore to ```0.8.8```
