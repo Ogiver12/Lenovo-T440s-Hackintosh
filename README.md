@@ -6,16 +6,14 @@
 
 
 
-[![macOS](https://img.shields.io/badge/macOS-Big_Sur-red)](https://www.apple.com/macos/big-sur/)
-[![macOS](https://img.shields.io/badge/macOS-Monterey_-green)](https://www.apple.com/macos/monterey/)
-[![macOS](https://img.shields.io/badge/macOS-Ventura_-orange)](https://www.apple.com/macos/Ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.8-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-Monterey_-purple)](https://www.apple.com/macos/monterey/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
    <strong>Status: Development Only </strong>
    <br />
-   <strong>OpenCore Version: </strong>0.9.8
+   <strong>OpenCore Version: </strong>1.0.0
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/releases"><strong>Download now »</strong></a>
    <br />
@@ -30,8 +28,6 @@
 </p>
 </br>
 
-#                                                        
-Development is a bit complex right now considering I don't have a working T440s. However, I am still maintaining this EFI so I will have the community test it and give feedback.
                                                            
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
@@ -74,16 +70,16 @@ Development is a bit complex right now considering I don't have a working T440s.
 
 | Model              | Lenovo ThinkPad T440s                                                                               |
 |:-------------------|:----------------------------------------------------------------------------------------------------------|
-| Processor          | Intel Core i5-4300U (2C, 4T,  1.9GHz / 2.5GHz) vPro (The best compatibility with macOS)                                                              
+| Processor          | Intel Core i5-4210U (2C, 4T,  1.9GHz / 2.5GHz)                                                              
 | Graphics           | Integrated Intel HD Graphics 4400                                                                         |
 | Memory             | 12 GB DDR3 (4GB Soldered + 8GB SODIMM DDR3, dual-channel)                                                       |
 | Display            | 14" HD (1600x900) TN, non-touch                                                                       |
-| Storage            | 1 TB Pioneer SATA SSD + 16 GB mSATA SSD                                                                             |
+| Storage            | 256 GB SATA SSD                                                                   |
 | Ethernet           | Intel Ethernet                                                         |
 | WLAN + Bluetooth   | Intel Wifi 7260ngw + Bluetooth 4.0                                        |
 | Camera             | 720p resolution, low light sensitive, fixed focus                                                       |
 | Audio support      | HD Audio, Realtek ALC3245 codec, stereo speakers 1Wx2, dual array microphone, combo audio/microphone jack |
-| Keyboard           | 6-row, spill-resistant, multimedia Fn keys, LED backlight                                                 |
+| Keyboard           | 6-row, spill-resistant, multimedia Fn keys                                                |
 | Battery            | Internal Li-Polymer 3-cell (68) and External Li-Ion 6-cell (68+)                       |
 
 
