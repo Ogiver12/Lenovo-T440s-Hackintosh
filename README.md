@@ -121,10 +121,6 @@
 
 <details>  
 
-</details>
-
-
-
 
 
 
