@@ -29,33 +29,6 @@
 </br>
 
                                                            
-<details>  
-<summary><strong>Recent Changes ⌚️ </strong></summary>
-</br>
-
-**03.27.2024** : Updated to ```OpenCore 0.9.8``` .
-     
-**03/27/2023** : Updated to ```OpenCore 0.9.0``` .
-
-**02/01/2023** : Updated to ```OpenCore 0.8.8``` .
-                                                           
-**12/14/2022** : Updated to ```OpenCore 0.8.7``` .
-
-**11/14/2022** : Updated to ```OpenCore 0.8.6``` . 
-
-**11/09/2022** : Changed the SMBIOS from ```MacBookPro12,1``` to ```MacBookPro14,1``` for better power management.
-
-**10/25/2022** : Downgraded back to ```OpenCore 0.8.3``` to avoid kernel panics and improve stability.
-                                                           
-**10/14/2022** : Changed the SMBIOS from ```MacBookPro11,5``` to  ```MacBookPro12,1```  and finally added support for video out in macOS Monterey.
-
-**10/12/2022** : Updated from OpenCore 0.8.3 to OpenCore 0.8.5                                                          
-                                                           
-**09/29/2022** : Added TrackPoint support and fixed the Instant Wake Issue when in sleep mode.
-
-**09/26/2022** : Added Bluetooth support for macOS Monterey & fixed the slow startup issue.
-
-**09/18/2022** : Changed the SMBIOS from ```MacBookPro11,1``` to  ```MacBookPro11,5``` for macOS Monterey.
 
 </details>
 
@@ -131,6 +104,8 @@
 <summary><strong>Photos 📷 </strong></summary>
 </br>
 
+## All of these pictures are from https://github.com/MultimediaLucario
+
 ![zj1nhx2v3eu91](https://user-images.githubusercontent.com/72415505/196230400-86fbab37-8249-403a-b081-901ecf687309.png)
 
 
@@ -145,14 +120,6 @@
 </details>
 
 <details>  
-<summary><strong>macOS Ventura Compatibility </strong></summary>
-</br>
-
-> **Warning**
-> macOS Ventura support is currently in ALPHA which means it is extremely unstable. Use at your own risk!
-
-<a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/blob/main/macOS%20Ventura%20Support.md"><strong>
-macOS Ventura Support »</strong></a>
 
 </details>
 
