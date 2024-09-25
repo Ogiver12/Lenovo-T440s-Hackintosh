@@ -119,12 +119,6 @@
 
 </details>
 
-<details>  
-
-
-
-
-</details>
 
 #
 ## Lenovo ThinkPad T440s Hackintosh Guide
